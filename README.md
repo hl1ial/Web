@@ -12,3 +12,4 @@ This change is for Automatic branch merging example.
 # Updates from Master branch
 
 This is going to be painful.
+We will cause trouble with branch and resolve it.
