@@ -13,7 +13,5 @@ This is a updates from TortoiseGit
 
 This is a change in feature-readme branch.
 
-# Some changes on Master branch
-
-There is some changes on the master branch using the windows
-file explorer to manage Git repository.
+# Trouble resolve Example
+This is a trouble fix example.
